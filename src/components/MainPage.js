@@ -15,30 +15,30 @@
 
 // export default MainPage;
 
-import React from "react";
-import Header from "./Header"; // Import Header component
-import Navbar from "./Navbar"; // Import Navbar component
-import SearchForm from "./SearchForm"; // Import SearchForm component
-import BookList from "./BookList"; // Import BookList component
+// import React from "react";
+// import Header from "./Header"; // Import Header component
+// import Navbar from "./Navbar"; // Import Navbar component
+// import SearchForm from "./SearchForm"; // Import SearchForm component
+// import BookList from "./BookList"; // Import BookList component
 
-const MainPage = () => {
-  return (
-    <div className="min-h-screen bg-gradient-to-b from-purple-900 to-gray-900 text-white">
-      <div className="container mx-auto p-8">
-        {/* Header Component */}
-        <Header />
+// const MainPage = () => {
+//   return (
+//     <div className="min-h-screen bg-gradient-to-b from-purple-900 to-gray-900 text-white">
+//       <div className="container mx-auto p-8">
+//         {/* Header Component */}
+//         <Header />
 
-        {/* Navbar Component */}
-        <Navbar />
+//         {/* Navbar Component */}
+//         <Navbar />
 
-        {/* SearchForm Component */}
-        <SearchForm />
+//         {/* SearchForm Component */}
+//         <SearchForm />
 
-        {/* BookList Component */}
-        <BookList />
-      </div>
-    </div>
-  );
-};
+//         {/* BookList Component */}
+//         <BookList />
+//       </div>
+//     </div>
+//   );
+// };
 
-export default MainPage;
+// export default MainPage;
