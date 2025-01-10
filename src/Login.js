@@ -309,9 +309,9 @@ const Login = () => {
           </button>
         </form>
         <div className="mt-8 text-center"> 
-          <a className="text-pink-400 hover:underline text-lg"> 
+          <h6 className="text-pink-400 hover:underline text-lg"> 
             Forgot your password?
-          </a>
+            </h6>
         </div>
       </div>
     </div>
