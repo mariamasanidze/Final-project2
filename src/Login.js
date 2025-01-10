@@ -309,7 +309,7 @@ const Login = () => {
           </button>
         </form>
         <div className="mt-8 text-center"> 
-          <a href="#" className="text-pink-400 hover:underline text-lg"> 
+          <a className="text-pink-400 hover:underline text-lg"> 
             Forgot your password?
           </a>
         </div>
