@@ -308,11 +308,7 @@ const Login = () => {
             Log In
           </button>
         </form>
-        <div className="mt-8 text-center"> 
-          <h6 className="text-pink-400 hover:underline text-lg"> 
-            Forgot your password?
-            </h6>
-        </div>
+       
       </div>
     </div>
   );
